@@ -1,4 +1,4 @@
-# flutter_example
+# Flutter Application
 
 A new Flutter application.
 
